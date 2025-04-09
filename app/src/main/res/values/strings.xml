@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Product Catalog</string>
+    <string name="product_details">Product Details</string>
+</resources>
